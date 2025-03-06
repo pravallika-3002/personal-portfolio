@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakshmi Pravallika Adibhatla | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Lakshmi Pravallika Adibhatla</h1>
+        <p>Mechanical Engineer | Robotics | Machine Learning</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Master of Engineering student at the University of Maryland with interests in reliability analysis, biomechanics, manufacturing, and robotics.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <a href="project_details.html#robotic_kinematics">
+                <img src="images/robotic_kinematics.jpg" alt="Robotic Kinematics">
+                <p>Robotic Kinematics and Motion Simulation</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#autonomous_kitting">
+                <img src="images/autonomous_kitting.jpg" alt="Autonomous Kitting System">
+                <p>Autonomous Kitting System Planning for Gantry Robot</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#employee_management">
+                <img src="images/employee_management.jpg" alt="Employee Management System">
+                <p>Employee and Department Management System</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#planar_rrr">
+                <img src="images/planar_rrr.jpg" alt="Planar RRR Robot">
+                <p>Planar RRR Robot Design and Motion Simulation</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#ur3_dynamics">
+                <img src="images/ur3_dynamics.jpg" alt="UR3 Robot Dynamics">
+                <p>UR3 Robot Dynamics and Joint Torque Analysis</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#fatigue_assessment">
+                <img src="images/fatigue_assessment.jpg" alt="Fatigue Damage Assessment">
+                <p>Fatigue Damage Assessment of Port Cranes</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#cnc_machining">
+                <img src="images/cnc_machining.jpg" alt="CNC Machining">
+                <p>Machining Parameters on CNC Turning Machine</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#exoskeleton_drafter">
+                <img src="images/exoskeleton_drafter.jpg" alt="Exoskeleton Drafter">
+                <p>Mechanical Exoskeleton Drafter</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#facial_recognition">
+                <img src="images/facial_recognition.jpg" alt="Facial Recognition">
+                <p>Facial Recognition Using CNN</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="project_details.html#knee_actuation">
+                <img src="images/knee_actuation.jpg" alt="Knee Actuation Device">
+                <p>Knee Actuation Device</p>
+            </a>
+        </div>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>AI/ML Intern at AWS:</strong> Designed ML pipelines and optimized workflows.</li>
+            <li><strong>Solid Edge Intern at APSSDC:</strong> Created 2D and 3D industrial models.</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <p>Programming: C, C++, Python, HTML, CSS</p>
+        <p>Tools: ROS, MATLAB, Linux, SolidWorks, AutoCAD</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:ladibhat@umd.edu">ladibhat@umd.edu</a></p>
+    </section>
+</body>
+</html>
